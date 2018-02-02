@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:15:10:37 +0530] "GET / HTTP/1.1" 200 389 http-bio-9091-exec-1 51
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:15:10:37 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9091-exec-3 2
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:15:10:39 +0530] "POST /login HTTP/1.1" 200 48 http-bio-9091-exec-4 295
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:15:11:02 +0530] "POST /login HTTP/1.1" 200 69 http-bio-9091-exec-5 40
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:15:11:06 +0530] "GET /register.jsp HTTP/1.1" 200 460 http-bio-9091-exec-8 101
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:15:11:09 +0530] "GET /index.html HTTP/1.1" 200 389 http-bio-9091-exec-8 2
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:15:11:10 +0530] "GET /register.jsp HTTP/1.1" 200 460 http-bio-9091-exec-8 2
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:15:11:12 +0530] "GET /register.jsp HTTP/1.1" 200 460 http-bio-9091-exec-8 2
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:15:21:00 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9091-exec-1 55
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:15:21:06 +0530] "POST /login HTTP/1.1" 200 52 http-bio-9091-exec-4 245
